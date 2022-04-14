@@ -1,2 +1,2 @@
 # sangayUdemySection18
-A project homework
+A project repo is now edited
